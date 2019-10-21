@@ -1,2 +1,5 @@
 # Default ignored files
-/workspace.xml
+/.idea/workspace.xml
+bubble_sort_project.iml
+/.idea
+out
